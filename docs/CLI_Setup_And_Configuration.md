@@ -5,6 +5,7 @@
 The Cloudsmith CLI was installed on my device using Homebrew by first adding the Cloudsmith tap and then installing the CLI tool with the following commands:
 
 > brew tap cloudsmith-io/cloudsmith-cli
+
 > brew install cloudsmith-cli
 
 This method provides a straightforward way to install and keep the CLI up to date on macOS systems
@@ -23,3 +24,4 @@ A pop-up appeared on the terminal asking for my organization slug. After enterin
 Below is a screenshot showing the Cloudsmith CLI authentication process:
 
 ![Cloudsmith CLI Authentication](../docs/assets/cloudsmith-cli-authentication.png)
+
