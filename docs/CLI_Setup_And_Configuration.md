@@ -23,7 +23,8 @@ A pop-up appeared on the terminal asking for my organization slug. After enterin
 
 Below is a screenshot showing the Cloudsmith CLI authentication process:
 
-![Cloudsmith CLI Authentication](docs/cloudsmith-cli-authentication.png)
+![Cloudsmith CLI Authentication](../docs/cloudsmith-cli-authentication.png)
+
 
 
 
