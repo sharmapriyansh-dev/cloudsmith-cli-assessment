@@ -26,5 +26,10 @@ Below is a screenshot showing the Cloudsmith CLI authentication process:
 ![Cloudsmith CLI Authentication](../docs/cloudsmith-cli-authentication.png)
 
 
+## Navigation
+
+- [Home](index.md)
+- [Next Task: Package Management](Package_Management.md)
+
 
 
