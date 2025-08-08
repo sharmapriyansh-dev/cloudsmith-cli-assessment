@@ -1,4 +1,4 @@
-## Installing and Configuring Cloudsmith CLI
+# Task 1: Installing and Configuring Cloudsmith CLI
 
 ### Installation of Cloudsmith CLI
 
@@ -32,6 +32,7 @@ Below is a screenshot showing the Cloudsmith CLI authentication process:
 
 - [Home](index.md)
 - [Next Task: Package Management](Package_Management.md)
+
 
 
 
