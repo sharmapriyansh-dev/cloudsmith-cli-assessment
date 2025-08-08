@@ -62,6 +62,7 @@ For automated security monitoring, I created a vulnerability policy to quarantin
 ## Navigation
 
 - [Home](index.md)
-- [Previous Task: Package Management](Package_Management.md)
+- [Previous Task: Package Management](CLI_Setup_And_Configuration.md)
+
 
 
