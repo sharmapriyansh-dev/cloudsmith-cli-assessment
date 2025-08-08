@@ -62,12 +62,22 @@ After running the above command, an entitlement token was created for the reposi
 
 Now, we can see that there is one entitlement token available
 
-![Entitlement Token After](../docs/entitlement-token-after.png)
+![Entitlement Token After](../docs/entitlements-token-after.png)
 
 
 ## 5. Create a new upstream for Maven Central in this repository
 
+To add an upstream for Maven Central, firstly, I created a config file **maven-upstream-config.json**, making it possible to proxy dependencies:
 
+![Maven Upstream Config](../docs/maven-upstream-condig.png)
+
+Then, we run the following command:
+
+> cloudsmith upstream maven create psharma-dev/cloudsmith-cli-psharma-dev maven-upstream-config.json
+
+This uses the Maven Central repository as an upstream proxy for the current Cloudsmith repository.
+
+![Create Maven Upstream](../docs/create-upstream.png)
 
 
 
