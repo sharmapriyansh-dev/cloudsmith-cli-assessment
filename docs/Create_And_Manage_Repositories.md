@@ -80,6 +80,11 @@ This uses the Maven Central repository as an upstream proxy for the current Clou
 ![Create Maven Upstream](../docs/create-upstream.png)
 
 
+## Navigation
+
+- [Home](index.md)
+- [Next Task: Package Management](Package_Management.md)
+
 
 
 
