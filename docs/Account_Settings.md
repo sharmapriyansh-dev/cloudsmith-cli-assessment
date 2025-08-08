@@ -23,14 +23,14 @@ To enhance security and compliance, I created a license policy that restricts pa
 }
 ```
 
-![License Policy Config](../docs/license-policy-config.json)
+![License Policy Config](../docs/license-policy-config.png)
 
 ### Command Used
 
 > cloudsmith policy license create psharma-dev LICENSE_POLICY_CONFIG.json
 
 
-![License Policy Config](../docs/license-policy-create.json)
+![License Policy Config](../docs/license-policy-create.png)
 
 
 ## 2. Create a New Vulnerability Policy
@@ -63,4 +63,5 @@ For automated security monitoring, I created a vulnerability policy to quarantin
 
 - [Home](index.md)
 - [Previous Task: Package Management](Package_Management.md)
+
 
