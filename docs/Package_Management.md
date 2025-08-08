@@ -83,7 +83,8 @@ Full CLI example:
 ## Navigation
 
 - [Home](index.md)
-- [Previous Task: ](Create_And_Manage_Repositories.md)
+- [Previous Task: Create and Manage Repositories](Create_And_Manage_Repositories.md)
 - [Next Task: Account Settings](Account_Settings.md)
+
 
 
