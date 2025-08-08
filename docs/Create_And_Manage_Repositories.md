@@ -69,7 +69,7 @@ Now, we can see that there is one entitlement token available
 
 To add an upstream for Maven Central, firstly, I created a config file **maven-upstream-config.json**, making it possible to proxy dependencies:
 
-![Maven Upstream Config](../docs/maven-upstream-condig.png)
+![Maven Upstream Config](../docs/maven-upstream-config.png)
 
 Then, we run the following command:
 
@@ -78,6 +78,7 @@ Then, we run the following command:
 This uses the Maven Central repository as an upstream proxy for the current Cloudsmith repository.
 
 ![Create Maven Upstream](../docs/create-upstream.png)
+
 
 
 
