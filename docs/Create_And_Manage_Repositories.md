@@ -83,9 +83,8 @@ This uses the Maven Central repository as an upstream proxy for the current Clou
 ## Navigation
 
 - [Home](index.md)
+- [Previous Task: CLI Setup and Configuration](CLI_Setup_And_Configuration.md)
 - [Next Task: Package Management](Package_Management.md)
-
-
 
 
 
