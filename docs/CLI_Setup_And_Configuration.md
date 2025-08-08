@@ -31,9 +31,7 @@ Below is a screenshot showing the Cloudsmith CLI authentication process:
 ## Navigation
 
 - [Home](index.md)
-- [Next Task: Package Management](Package_Management.md)
-
-
+- [Next Task: Create and Manage Repositories](Create_And_Manage_Repositories.md)
 
 
 
